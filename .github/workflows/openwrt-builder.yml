@@ -28,8 +28,8 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/C0reFast/openwrt-ipq
-  REPO_BRANCH: 24.10-nss-zn_m2
+  REPO_URL: https://github.com/C0reFast/immortalwrt-ipq.git
+  REPO_BRANCH: openwrt-24.10-nss
   BRANCH_NAME: NOWIFI
   DEVICE_NAME: ZN_M2
   CONFIG_FILE: zn_m2-nowifi.config
